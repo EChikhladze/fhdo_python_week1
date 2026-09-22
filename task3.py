@@ -1,0 +1,11 @@
+floatNum = float(3)
+intNum = int(18.2)
+text = str(0)
+intText = int("4")
+boolInt = bool(1)
+
+print(str(floatNum) + " is type: " + str(type(floatNum)))
+print(str(intNum) + " is type: " + str(type(intNum)))
+print(text + " is type: " + str(type(text)))
+print(str(intText) + " is type: " + str(type(intText)))
+print(str(boolInt) + " is type: " + str(type(boolInt)))
